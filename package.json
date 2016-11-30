@@ -1,6 +1,6 @@
 {
   "name": "react-select",
-  "version": "1.0.0-rc.2",
+  "version": "1.0.0-rc.2fix",
   "description": "A Select control built with and for ReactJS",
   "main": "lib/Select.js",
   "style": "dist/react-select.min.css",
@@ -8,11 +8,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JedWatson/react-select.git"
+    "url": "https://github.com/hueypeard/react-select.git"
   },
   "dependencies": {
     "classnames": "^2.2.4",
-    "react-input-autosize": "^1.1.0"
+    "react-input-autosize": "https://github.com/hueypeard/react-input-autosize"
   },
   "devDependencies": {
     "babel": "^5.8.23",
